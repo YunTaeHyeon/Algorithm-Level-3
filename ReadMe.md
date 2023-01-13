@@ -53,12 +53,28 @@
 5. [BOJ 소방서의 고민](https://www.acmicpc.net/problem/2180)
 6. [BOJ 힙 정렬](https://www.acmicpc.net/problem/2220)
 7. [BOJ 불 켜기](https://www.acmicpc.net/problem/1505)
-
-### :lock: 다이나믹 프로그래밍(선정 중)
-
-
-### :lock: 이분 탐색(선정 중)
+8. [프로그래머스 1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364)
 
 
-### :lock: 비트 마스크를 이용한 다이나믹 프로그래밍(선정 중)
+### ✏️ 다이나믹 프로그래밍
+1. [BOJ 게임](https://www.acmicpc.net/problem/1103)
+2. [BOJ 트리의 가중치](https://www.acmicpc.net/problem/1289)
+3. [BOJ 팰린드롬 분할](https://www.acmicpc.net/problem/1509)
+4. [BOJ 택배](https://www.acmicpc.net/problem/1866)
+5. [BOJ 전구](https://www.acmicpc.net/problem/2449)
+6. [BOJ 중앙 트리](https://www.acmicpc.net/problem/7812)
+7. [프로그래머스 사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)
 
+### 🧭 이분 탐색
+1. [BOJ 부분수열의 합 2](https://www.acmicpc.net/problem/1208)
+2. [BOJ 흥미로운 수열](https://www.acmicpc.net/problem/2855)
+3. [프로그래머스 시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305)
+4. [프로그래머스 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+5. [프로그래머스 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
+
+
+### ✏️ 비트 마스크를 이용한 다이나믹 프로그래밍
+1. [BOJ 할 일 정하기 1](https://www.acmicpc.net/problem/1311)
+2. [BOJ 외판원 순회](https://www.acmicpc.net/problem/2098)
+3. [BOJ 발전소](https://www.acmicpc.net/problem/1102)
+4. [BOJ 그림 교환](https://www.acmicpc.net/problem/1029)
